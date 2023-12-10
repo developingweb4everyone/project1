@@ -1,0 +1,51 @@
+body {
+    background-color: #d3d3d3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-transform:capitalize;
+    text-align: center;
+}
+header {
+    background-color: #c4fffcbd;
+
+}
+strong {
+    color: rgba(255, 0, 0, 0.863);
+}
+nav {
+    background-color: #c4fffcbd;
+}
+main {
+    background-color: #c4fffcbd;
+    font-size: medium;
+}
+div {
+    display:table-cell;
+    border-image:fill;
+    image-orientation:flip;
+}
+footer {
+    background-color: #c4fffcbd;
+    font-size: medium;
+
+}
+h1 {
+    font-family: 'Times New Roman' !important;
+    text-align: left;
+    color: rgba(0, 0, 255, 0.774);
+    text-transform: uppercase;
+}
+li {
+    display: block
+    width 200%;
+}
+p {
+    line-height: 200%;
+    color:black;
+    font-variant: small-caps;
+}
